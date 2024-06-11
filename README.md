@@ -5,7 +5,7 @@ Welcome to Day 33 of my 50-day web development challenge! Today, I present an In
 
 JOIN ME HERE:
 
-Live Demo:
+Live Demo: https://codelikeamachine.github.io/Day33of50-Innovative-Business-Agency-Website/
 
 LinkedIn: http://www.linkedin.com/in/armaansaraswat
 
